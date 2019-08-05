@@ -10,4 +10,5 @@ elif country == 'America':
 		print('you can drive')
 	else :
 		print('you can not dirve')
-		
+else :
+	print('I do not know')
